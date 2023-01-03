@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @asantolaria
-- 👀 I’m interested in Angular, Javascript, PHP, Laravel, Python. 
-- 🌱 I’m currently learning Angular
+- 👀 I’m interested in Angular, Javascript, PHP, Laravel, Python and cloud AWS. 
 
 <!---
 asantolaria/asantolaria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
